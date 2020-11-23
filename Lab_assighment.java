@@ -50,7 +50,7 @@ class Queue
     { 
         if (front == null) 
 	{
-            System.out.println("DSA LAB!");
+            System.out.println("Empty!");
 	    return; 
 	}          
   
